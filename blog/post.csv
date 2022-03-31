@@ -1,0 +1,16 @@
+id,usuario_id,título,fecha
+1,1,Post 1: Esto es malo,29-06-2020
+2,5,Post 2: Esto es malo,20-06-2020
+3,1,Post 3: Esto es excelente,30-05-2020
+4,9,Post 4: Esto es bueno,09-05-2020
+5,7,Post 5: Esto es bueno,10-07-2020
+6,5,Post 6: Esto es excelente,18-07-2020
+7,8,Post 7: Esto es excelente,07-07-2020
+8,5,Post 8: Esto es excelente,14-05-2020
+9,2,Post 9: Esto es bueno,08-05-2020
+10,6,Post 10: Esto es bueno,02-06-2020
+11,4,Post 11: Esto es bueno,05-05-2020
+12,9,Post 12: Esto es malo,23-07-2020
+13,5,Post 13: Esto es excelente,30-05-2020
+14,8,Post 14: Esto es excelente,01-05-2020
+15,7,Post 15: Esto es malo,17-06-2020
